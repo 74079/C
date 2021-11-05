@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1632599652 source:c:\users\henri\lucasgithub\proj_filh_pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TAD_FILA.h"
+
+1632599728 c:\users\henri\lucasgithub\proj_filh_pilha\tad_fila.h
+

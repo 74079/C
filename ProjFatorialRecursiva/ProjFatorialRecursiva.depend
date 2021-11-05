@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634174458 source:c:\users\henri\lucasgithub\projfatorialrecursiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+

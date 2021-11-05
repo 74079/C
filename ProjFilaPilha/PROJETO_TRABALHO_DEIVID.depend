@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632700066 source:c:\users\henri\lucasgithub\projeto_trabalho_deivid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TRABALHO_PILHAFILA.h"
+
+1632700089 c:\users\henri\lucasgithub\projeto_trabalho_deivid\trabalho_pilhafila.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
